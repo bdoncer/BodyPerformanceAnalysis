@@ -2,5 +2,4 @@
 
 The project includes Body Performance analysis, including diagrams, correlations, linear regression and others. The code can be found in the *script.R* file and the LaTeX documentation in the *documentation.pdf* file.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BvWefB4NGGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![STATISTICS](https://img.youtube.com/vi/BvWefB4NGGI&ab_channel=TimothéeChalametFanE/0.jpg)](https://www.youtube.com/watch?v=BvWefB4NGGI&ab_channel=TimothéeChalametFan)
